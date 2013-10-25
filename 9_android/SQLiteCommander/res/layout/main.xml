@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+	android:layout_width="fill_parent" 
+	android:layout_height="fill_parent">
+	<RelativeLayout
+		android:id="@+id/layout_input" 
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_alignParentBottom="true">
+	<Button 
+		android:text="@string/run" 
+		android:id="@+id/btnRun" 
+		android:onClick="btnRunClick"
+		android:layout_alignParentRight="true"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content"/>	
+	<EditText
+		android:hint="@string/input_query"
+		android:id="@+id/etInputQuery"
+		android:layout_alignParentLeft="true"
+		android:layout_toLeftOf="@id/btnRun"
+		android:layout_width="wrap_content" 
+		android:layout_height="wrap_content" />
+	</RelativeLayout>
+	<EditText
+		android:id="@+id/etResult"
+		android:layout_width="fill_parent" 
+		android:layout_height="wrap_content"
+		android:layout_alignParentTop="true"
+		android:layout_above="@id/layout_input"
+		android:editable="false"
+		android:scrollbars="horizontal"
+		android:focusable="false"
+		 />
+</RelativeLayout>

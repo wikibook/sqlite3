@@ -1,0 +1,239 @@
+// !$*UTF8*$!
+{
+	0F822175118C578500CB792F /* SQL Manager */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "SQL Manager";
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	0F82217E118C57A500CB792F /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	0F82217F118C57A500CB792F /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	0F8A679111A2D4050027AC89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* sqlmanagerViewController.h */;
+		name = "sqlmanagerViewController.h: 15";
+		rLen = 0;
+		rLoc = 329;
+		rType = 0;
+		vrLen = 505;
+		vrLoc = 0;
+	};
+	0F8A679211A2D4050027AC89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* sqlmanagerViewController.m */;
+		name = "sqlmanagerViewController.m: 16";
+		rLen = 0;
+		rLoc = 325;
+		rType = 0;
+		vrLen = 634;
+		vrLoc = 0;
+	};
+	0F8A679411A2D4410027AC89 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* sqlmanagerViewController.m */;
+		name = "sqlmanagerViewController.m: 12";
+		rLen = 0;
+		rLoc = 254;
+		rType = 0;
+		vrLen = 734;
+		vrLoc = 2475;
+	};
+	0F8AA648118F1203008D2CBD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* sqlmanagerAppDelegate.h */;
+		name = "sqlmanagerAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 0;
+	};
+	0F8AA68B118F2645008D2CBD /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* sqlmanagerAppDelegate.m */;
+		name = "sqlmanagerAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 582;
+		vrLoc = 0;
+	};
+	1D3623240D0F684500981E51 /* sqlmanagerAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 374}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 498}";
+		};
+	};
+	1D3623250D0F684500981E51 /* sqlmanagerAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {975, 434}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 582}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* SQL Manager */ = {
+		activeExec = 0;
+		executables = (
+			0F822175118C578500CB792F /* SQL Manager */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* sqlmanagerViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {884, 425}}";
+			sepNavSelRange = "{329, 0}";
+			sepNavVisRange = "{0, 505}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* sqlmanagerViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {950, 2860}}";
+			sepNavSelRange = "{254, 0}";
+			sepNavVisRange = "{2475, 734}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 0F822175118C578500CB792F /* SQL Manager */;
+		activeSDKPreference = iphonesimulator3.1.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* SQL Manager */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* SQL Manager */,
+		);
+		codeSenseManager = 0F82217F118C57A500CB792F /* Code sense */;
+		executables = (
+			0F822175118C578500CB792F /* SQL Manager */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					685,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					706,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXSymbolsDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXSymbolsDataSource_SymbolNameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					16,
+					200,
+					50,
+					737,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXSymbolsDataSource_SymbolTypeIconID,
+					PBXSymbolsDataSource_SymbolNameID,
+					PBXSymbolsDataSource_SymbolTypeID,
+					PBXSymbolsDataSource_ReferenceNameID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					757,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 295883115;
+			PBXWorkspaceStateSaveDate = 295883115;
+		};
+		perUserProjectItems = {
+			0F8A679111A2D4050027AC89 /* PBXTextBookmark */ = 0F8A679111A2D4050027AC89 /* PBXTextBookmark */;
+			0F8A679211A2D4050027AC89 /* PBXTextBookmark */ = 0F8A679211A2D4050027AC89 /* PBXTextBookmark */;
+			0F8A679411A2D4410027AC89 /* PBXTextBookmark */ = 0F8A679411A2D4410027AC89 /* PBXTextBookmark */;
+			0F8AA648118F1203008D2CBD /* PBXTextBookmark */ = 0F8AA648118F1203008D2CBD /* PBXTextBookmark */;
+			0F8AA68B118F2645008D2CBD /* PBXTextBookmark */ = 0F8AA68B118F2645008D2CBD /* PBXTextBookmark */;
+		};
+		sourceControlManager = 0F82217E118C57A500CB792F /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	8D1107310486CEB800E47090 /* sqlmanager-Info.plist */ = {
+		uiCtxt = {
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
+}

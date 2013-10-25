@@ -1,0 +1,240 @@
+Tsqlmanager
+v7
+r0
+t294420828.450291
+cCheck dependencies
+cProcessInfoPlistFile /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/Info.plist sqlmanager-Info.plist
+cCompileXIB /Users/junhoi/Desktop/sqlmanager/MainWindow.xib
+cCompileXIB /Users/junhoi/Desktop/sqlmanager/sqlmanagerViewController.xib
+cProcessPCH /var/folders/HS/HSPRh-T0HDmJHi9Q0c+KvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqlmanager_Prefix-eunjpsercvyiuudtdagenapblaky/sqlmanager_Prefix.pch.gch sqlmanager_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/main.o /Users/junhoi/Desktop/sqlmanager/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerAppDelegate.o /Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerViewController.o /Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager normal i386
+cGenerateDSYMFile /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app.dSYM /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager
+cTouch /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AF0C10000000000000000EE
+t1257292032
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerAppDelegate.h
+c000000004BDC200400000000000001F2
+t1272717316
+s498
+i<UIKit/UIKit.h>
+
+N/Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerAppDelegate.m
+c000000004BDC2004000000000000027A
+t1272717316
+s634
+i"sqlmanagerAppDelegate.h"
+i"sqlmanagerViewController.h"
+
+N/Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerViewController.h
+c000000004BDC2366000000000000016C
+t1272718182
+s364
+i<UIKit/UIKit.h>
+
+N/Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerViewController.m
+c000000004BDC28C6000000000000099E
+t1272719558
+s2462
+i"sqlmanagerViewController.h"
+
+N/Users/junhoi/Desktop/sqlmanager/MainWindow.xib
+c000000004BDC49B8000000000000270D
+t1272727992
+s9997
+
+N/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app
+t1272728028
+s238
+
+N/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app.dSYM
+t1272728028
+s102
+
+N/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/Info.plist
+t1272717427
+s576
+
+N/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/MainWindow.nib
+t1272728028
+s1434
+
+N/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/PkgInfo
+t1272717427
+s8
+
+N/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager
+t1272728028
+s20504
+
+N/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanagerViewController.nib
+t1272728028
+s1561
+
+N/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/main.o
+t1272728028
+s5936
+
+N/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanager.LinkFileList
+c000000004BDC49DB0000000000000193
+t1272728027
+s403
+
+N/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerAppDelegate.o
+t1272728028
+s38168
+
+N/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerViewController.o
+t1272728028
+s38560
+
+N/Users/junhoi/Desktop/sqlmanager/main.m
+c000000004BDC2004000000000000016D
+t1272717316
+s365
+i<UIKit/UIKit.h>
+
+N/Users/junhoi/Desktop/sqlmanager/sqlmanagerViewController.xib
+c000000004BDC49D1000000000000225A
+t1272728017
+s8794
+
+N/Users/junhoi/Desktop/sqlmanager/sqlmanager_Prefix.pch
+c000000004BDC200400000000000000BD
+t1272717316
+s189
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/var/folders/HS/HSPRh-T0HDmJHi9Q0c+KvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqlmanager_Prefix-eunjpsercvyiuudtdagenapblaky/sqlmanager_Prefix.pch.gch
+t1272723716
+s13026768
+
+Nsqlmanager-Info.plist
+c000000004BDC2004000000000000038D
+t1272717316
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294420827#294420827#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/main.o /Users/junhoi/Desktop/sqlmanager/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294420828.157053
+e294420828.226262
+r1
+xCompileC
+xbuild/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/main.o
+x/Users/junhoi/Desktop/sqlmanager/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@47"Compile /Users/junhoi/Desktop/sqlmanager/main.m294420828#294420828#0(0"0(0#0#39"/Users/junhoi/Desktop/sqlmanager/main.m4300911832#1853"    cd /Users/junhoi/Desktop/sqlmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-generated-files.hmap -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-own-target-headers.hmap -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-all-target-headers.hmap -iquote /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-project-headers.hmap -F/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator -I/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/include -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/DerivedSources/i386 -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/DerivedSources -include /var/folders/HS/HSPRh-T0HDmJHi9Q0c+KvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqlmanager_Prefix-eunjpsercvyiuudtdagenapblaky/sqlmanager_Prefix.pch -c /Users/junhoi/Desktop/sqlmanager/main.m -o /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/main.o0#
+
+CCompileC build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerAppDelegate.o /Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294420828.158428
+e294420828.239837
+r1
+xCompileC
+xbuild/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerAppDelegate.o
+x/Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerAppDelegate.m294420828#294420828#0(0"0(0#0#64"/Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerAppDelegate.m4300911832#1895"    cd /Users/junhoi/Desktop/sqlmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-generated-files.hmap -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-own-target-headers.hmap -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-all-target-headers.hmap -iquote /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-project-headers.hmap -F/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator -I/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/include -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/DerivedSources/i386 -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/DerivedSources -include /var/folders/HS/HSPRh-T0HDmJHi9Q0c+KvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqlmanager_Prefix-eunjpsercvyiuudtdagenapblaky/sqlmanager_Prefix.pch -c /Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerAppDelegate.m -o /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerAppDelegate.o0#
+
+CCompileC build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerViewController.o /Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s294420828.226382
+e294420828.308541
+r1
+xCompileC
+xbuild/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerViewController.o
+x/Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerViewController.m294420828#294420828#0(0"0(0#0#67"/Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerViewController.m4300911832#1901"    cd /Users/junhoi/Desktop/sqlmanager    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-generated-files.hmap -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-own-target-headers.hmap -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-all-target-headers.hmap -iquote /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/sqlmanager-project-headers.hmap -F/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator -I/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/include -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/DerivedSources/i386 -I/Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/DerivedSources -include /var/folders/HS/HSPRh-T0HDmJHi9Q0c+KvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqlmanager_Prefix-eunjpsercvyiuudtdagenapblaky/sqlmanager_Prefix.pch -c /Users/junhoi/Desktop/sqlmanager/Classes/sqlmanagerViewController.m -o /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanagerViewController.o0#
+
+CCompileXIB /Users/junhoi/Desktop/sqlmanager/MainWindow.xib
+s294420827.815248
+e294420828.125634
+r1
+xCompileXIB
+x/Users/junhoi/Desktop/sqlmanager/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294420827#294420828#0(0"0(0#0#47"/Users/junhoi/Desktop/sqlmanager/MainWindow.xib30681236325335156#467"    cd /Users/junhoi/Desktop/sqlmanager    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/MainWindow.nib /Users/junhoi/Desktop/sqlmanager/MainWindow.xib0#
+
+CCompileXIB /Users/junhoi/Desktop/sqlmanager/sqlmanagerViewController.xib
+s294420827.819352
+e294420828.156763
+r1
+xCompileXIB
+x/Users/junhoi/Desktop/sqlmanager/sqlmanagerViewController.xib
+lSLF07#2@39"CompileXIB sqlmanagerViewController.xib294420827#294420828#0(0"0(0#0#61"/Users/junhoi/Desktop/sqlmanager/sqlmanagerViewController.xib4300911832#495"    cd /Users/junhoi/Desktop/sqlmanager    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanagerViewController.nib /Users/junhoi/Desktop/sqlmanager/sqlmanagerViewController.xib0#
+
+CGenerateDSYMFile /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app.dSYM /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager
+s294420828.427264
+e294420828.446871
+r1
+xGenerateDSYMFile
+x/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app.dSYM
+x/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager
+lSLF07#2@118"GenerateDSYMFile build/Debug-iphonesimulator/sqlmanager.app.dSYM build/Debug-iphonesimulator/sqlmanager.app/sqlmanager294420828#294420828#0(0"0(0#0#86"/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager4300911832#374"    cd /Users/junhoi/Desktop/sqlmanager    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager -o /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app.dSYM0#
+
+CLd /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager normal i386
+s294420828.308650
+e294420828.427142
+r1
+xLd
+x/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager
+xnormal
+xi386
+lSLF07#2@91"Link /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager294420828#294420828#0(0"0(0#0#0"4300911832#849"    cd /Users/junhoi/Desktop/sqlmanager    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator -F/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator -filelist /Users/junhoi/Desktop/sqlmanager/build/sqlmanager.build/Debug-iphonesimulator/sqlmanager.build/Objects-normal/i386/sqlmanager.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/sqlmanager0#
+
+CProcessInfoPlistFile /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app/Info.plist sqlmanager-Info.plist
+r0
+
+CProcessPCH /var/folders/HS/HSPRh-T0HDmJHi9Q0c+KvE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/sqlmanager_Prefix-eunjpsercvyiuudtdagenapblaky/sqlmanager_Prefix.pch.gch sqlmanager_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app
+s294420828.446976
+e294420828.450230
+r1
+xTouch
+x/Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app
+lSLF07#2@81"Touch /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app294420828#294420828#0(0"0(0#0#0"4300911832#269"    cd /Users/junhoi/Desktop/sqlmanager    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/junhoi/Desktop/sqlmanager/build/Debug-iphonesimulator/sqlmanager.app0#
+
